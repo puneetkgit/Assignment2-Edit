@@ -1,0 +1,86 @@
+body{
+    background-image: url("../images/2414047.jpg");
+
+}
+
+.Title{
+    border-bottom: 2px green solid;
+    font-size: 60px;
+    font-weight:bold;
+    margin: -7px -10px 00px -10px;
+    padding: 7px 10px 00px 10px;
+    background-image: url("../images/Pattern-Backgrounds.jpg");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.intro{
+
+    display:flex;
+    width:95%;
+    margin: 0 auto
+
+}
+
+.deal{
+    border: 2px  yellow solid;
+    height: 400px;
+    width:400px;
+   
+}
+
+
+.steal{
+    background: Yellow;
+    width: 100%;
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    height:50px
+}
+
+.itemPic{
+    background: crimson;
+    height: 300px;
+}
+
+.welcome{
+    text-align: center;
+    width:85%;
+    font-size:65px;
+    padding: 100px 20px 100px 20px;
+    margin:0x 30px 0px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+.more{
+    background:yellow;
+    width: 100%;
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+    height:50px
+}
+
+a:link{
+    color:black;
+    text-decoration:none
+}
+
+
+
+a:visited{
+    color:black;
+    text-decoration:none
+
+}
+
+
+
+.about{
+    width:100%;
+    padding:0px 30px 0px 30px;
+    font-size: 20px;
+}

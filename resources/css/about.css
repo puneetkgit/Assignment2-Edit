@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/2414047.jpg");
+
+}
+
+.Title{
+    border-bottom: 2px green solid;
+    font-size: 60px;
+    font-weight:bold;
+    margin: -7px -10px 00px -10px;
+    padding: 7px 10px 00px 10px;
+    background-image: url("../images/Pattern-Backgrounds.jpg");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+.about{
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px;
+}
+
+
+.description{
+    text-align: center;
+    padding: 20px;
+}
+
+
